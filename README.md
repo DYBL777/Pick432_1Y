@@ -4,7 +4,7 @@
 
 Players pick four crypto assets they believe will outperform that week, ranked in order. Prizes are awarded across four tiers, so you can win without matching the exact ranking. Winners share a prize pool funded by Aave V3 yield on the collective pot plus 85% of all player payments, including ticket purchases and OG contributions. Loyal early members, called OGs, are designed to recover their full or partial stake by the end of the 52-draw season, regardless of whether they win prizes along the way.
 
-This repository is the DYBL Foundation's **canonical reference implementation** for the Pick432 protocol family. It carries the complete internal audit trail, full NatSpec documentation, and the master changelog covering every version from initial fork through the current release. Sister deployments, including the ETH Mainnet variant, NearestTheETH, and SuperWhale, are verified forks that inherit this codebase and document only their divergences from it.
+This repository is the DYBL Foundation's **canonical reference implementation** for the Pick432 protocol family. It carries the internal audit trail, NatSpec documentation, and the master changelog covering every version from initial fork through the current release. Sister deployments, including the ETH Mainnet variant, NearestTheETH, and SuperWhale, are verified forks that inherit this codebase and document only their divergences from it.
 
 ---
 
